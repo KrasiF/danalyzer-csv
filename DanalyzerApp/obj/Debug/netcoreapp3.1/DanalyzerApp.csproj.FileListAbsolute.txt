@@ -1,0 +1,27 @@
+C:\Users\krasi\source\repos\DanalyzerControllerPrototype\DanalyzerApp\bin\Debug\netcoreapp3.1\DanalyzerApp.exe
+C:\Users\krasi\source\repos\DanalyzerControllerPrototype\DanalyzerApp\bin\Debug\netcoreapp3.1\DanalyzerApp.deps.json
+C:\Users\krasi\source\repos\DanalyzerControllerPrototype\DanalyzerApp\bin\Debug\netcoreapp3.1\DanalyzerApp.runtimeconfig.json
+C:\Users\krasi\source\repos\DanalyzerControllerPrototype\DanalyzerApp\bin\Debug\netcoreapp3.1\DanalyzerApp.runtimeconfig.dev.json
+C:\Users\krasi\source\repos\DanalyzerControllerPrototype\DanalyzerApp\bin\Debug\netcoreapp3.1\DanalyzerApp.dll
+C:\Users\krasi\source\repos\DanalyzerControllerPrototype\DanalyzerApp\bin\Debug\netcoreapp3.1\DanalyzerApp.pdb
+C:\Users\krasi\source\repos\DanalyzerControllerPrototype\DanalyzerApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\krasi\source\repos\DanalyzerControllerPrototype\DanalyzerApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\krasi\source\repos\DanalyzerControllerPrototype\DanalyzerApp\obj\Debug\netcoreapp3.1\DanalyzerApp_MarkupCompile.cache
+C:\Users\krasi\source\repos\DanalyzerControllerPrototype\DanalyzerApp\obj\Debug\netcoreapp3.1\DanalyzerApp_MarkupCompile.lref
+C:\Users\krasi\source\repos\DanalyzerControllerPrototype\DanalyzerApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\krasi\source\repos\DanalyzerControllerPrototype\DanalyzerApp\obj\Debug\netcoreapp3.1\DanalyzerApp.g.resources
+C:\Users\krasi\source\repos\DanalyzerControllerPrototype\DanalyzerApp\obj\Debug\netcoreapp3.1\DanalyzerApp.csproj.CoreCompileInputs.cache
+C:\Users\krasi\source\repos\DanalyzerControllerPrototype\DanalyzerApp\obj\Debug\netcoreapp3.1\DanalyzerApp.AssemblyInfoInputs.cache
+C:\Users\krasi\source\repos\DanalyzerControllerPrototype\DanalyzerApp\obj\Debug\netcoreapp3.1\DanalyzerApp.AssemblyInfo.cs
+C:\Users\krasi\source\repos\DanalyzerControllerPrototype\DanalyzerApp\obj\Debug\netcoreapp3.1\DanalyzerApp.dll
+C:\Users\krasi\source\repos\DanalyzerControllerPrototype\DanalyzerApp\obj\Debug\netcoreapp3.1\DanalyzerApp.pdb
+C:\Users\krasi\source\repos\DanalyzerControllerPrototype\DanalyzerApp\obj\Debug\netcoreapp3.1\DanalyzerApp.genruntimeconfig.cache
+C:\Users\krasi\source\repos\DanalyzerControllerPrototype\DanalyzerApp\obj\Debug\netcoreapp3.1\GUI\Windows\CreateQuestionFilterWindow.g.cs
+C:\Users\krasi\source\repos\DanalyzerControllerPrototype\DanalyzerApp\obj\Debug\netcoreapp3.1\GUI\Windows\CreateQuestionFilterWindow.baml
+F:\Alles Programmieren\Danalyzer\netcoreapp3.1\DanalyzerApp.exe
+F:\Alles Programmieren\Danalyzer\netcoreapp3.1\DanalyzerApp.deps.json
+F:\Alles Programmieren\Danalyzer\netcoreapp3.1\DanalyzerApp.runtimeconfig.json
+F:\Alles Programmieren\Danalyzer\netcoreapp3.1\DanalyzerApp.runtimeconfig.dev.json
+F:\Alles Programmieren\Danalyzer\netcoreapp3.1\DanalyzerApp.dll
+F:\Alles Programmieren\Danalyzer\netcoreapp3.1\DanalyzerApp.pdb
+C:\Users\krasi\source\repos\DanalyzerControllerPrototype\DanalyzerApp\obj\Debug\netcoreapp3.1\DanalyzerApp.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2s1ZdgWyIaB8seHnIRIXKdmBnWDfwQVTMi5Mty22tWZr5FF2Rq6Ijfw/5iEz2BjBwNTUD0QPrXpxr3CH3j9aZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krasi\\source\\repos\\DanalyzerControllerPrototype\\DanalyzerApp\\DanalyzerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krasi\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.2\\microsoft.netcore.app.runtime.win-x86.3.1.2.nupkg.sha512",
+    "C:\\Users\\krasi\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.2\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.2.nupkg.sha512",
+    "C:\\Users\\krasi\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.2\\microsoft.aspnetcore.app.runtime.win-x86.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

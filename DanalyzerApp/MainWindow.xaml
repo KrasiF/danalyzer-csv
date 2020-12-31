@@ -1,0 +1,29 @@
+﻿<Window x:Class="DanalyzerApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DanalyzerApp" xmlns:filterwindow="clr-namespace:DanalyzerApp.GUI.FilterWindow"
+        mc:Ignorable="d"
+        Title="Danalyzer" Height="450" Width="800" MinHeight="200" MinWidth="400">
+    <Grid>
+        <DockPanel VerticalAlignment="Top">
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="File">
+                    <MenuItem Header="Browse" Click="Browse_Clicked"/>
+                </MenuItem>
+                <MenuItem Header="Filter">
+                    <MenuItem Header="Create Filter" Click="CreateFilter_Clicked" Name="createFilterMenuItem" IsEnabled="False"/>
+                </MenuItem>
+            </Menu>
+        </DockPanel>
+        <Border HorizontalAlignment="Left"  Margin="33,37,0,54" Width="162" BorderBrush="Gray" BorderThickness="1">
+            <ScrollViewer >
+                <StackPanel Name="filterPanel" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch">
+                </StackPanel>
+            </ScrollViewer>
+        </Border>        
+        <DataGrid Name="mainDataGrid" Margin="195,37,56,54" HorizontalScrollBarVisibility="Auto">
+        </DataGrid>
+    </Grid>
+</Window>
